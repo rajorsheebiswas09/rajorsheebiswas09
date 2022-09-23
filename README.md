@@ -14,7 +14,7 @@ Full Stack JavaScript Development, with a dash of Python.
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=rajorsheebiswas09&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=rajorsheebiswas09&&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 
